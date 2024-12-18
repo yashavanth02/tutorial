@@ -5,5 +5,8 @@ def even(n):
     else:
         print("odd")
 even(7)
-        
+
+
+def hello():
+    print("hello world")
     
