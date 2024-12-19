@@ -11,4 +11,7 @@ def hello():
     print("hello world")
     print("tata")
     print("wonder")
+
+
+print ("pig will  always come as a crowed but lion will come only single")
     
